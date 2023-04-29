@@ -8,9 +8,6 @@ TODO
 """
 
 
-import numpy as np
-
-
 class DataProcessing():
     
     def __init__(self):
